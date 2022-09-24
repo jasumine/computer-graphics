@@ -1,0 +1,6 @@
+﻿  main.cpp
+C:\Users\WINDOWS\Desktop\computer-graphics\computer-graphics\test\test\main.cpp(41,12): warning C4244: 'return': 'WPARAM'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\WINDOWS\Desktop\computer-graphics\computer-graphics\test\test\main.cpp(45,1): error C2556: 'LRESULT WndProc(HWND,UINT,WPARAM,LPARAM)': 오버로드된 함수가 'LONG WndProc(HWND,UINT,WPARAM,LPARAM)'과(와) 반환 형식만 다릅니다.
+C:\Users\WINDOWS\Desktop\computer-graphics\computer-graphics\test\test\main.cpp(3): message : 'WndProc' 선언을 참조하십시오.
+C:\Users\WINDOWS\Desktop\computer-graphics\computer-graphics\test\test\main.cpp(44,18): error C2371: 'WndProc': 재정의. 기본 형식이 다릅니다.
+C:\Users\WINDOWS\Desktop\computer-graphics\computer-graphics\test\test\main.cpp(3): message : 'WndProc' 선언을 참조하십시오.
